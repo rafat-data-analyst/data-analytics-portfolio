@@ -1,0 +1,501 @@
+customer_id,segment,signup_date
+C0001,Consumer,2022-02-16
+C0002,Small Business,2022-08-22
+C0003,Consumer,2022-03-23
+C0004,Consumer,2024-06-06
+C0005,Consumer,2023-01-25
+C0006,Consumer,2023-04-10
+C0007,Small Business,2024-05-04
+C0008,Consumer,2022-06-16
+C0009,Consumer,2022-12-30
+C0010,Consumer,2023-11-18
+C0011,Consumer,2023-12-20
+C0012,Small Business,2023-10-26
+C0013,Consumer,2023-09-16
+C0014,Small Business,2022-06-25
+C0015,Corporate,2024-01-17
+C0016,Consumer,2022-06-17
+C0017,Corporate,2023-01-24
+C0018,Consumer,2023-10-18
+C0019,Corporate,2022-08-13
+C0020,Small Business,2022-11-29
+C0021,Consumer,2022-08-23
+C0022,Consumer,2024-04-04
+C0023,Consumer,2023-02-15
+C0024,Consumer,2022-03-09
+C0025,Consumer,2023-08-04
+C0026,Consumer,2022-08-06
+C0027,Small Business,2023-05-27
+C0028,Corporate,2023-10-21
+C0029,Corporate,2022-05-27
+C0030,Consumer,2022-05-23
+C0031,Consumer,2024-02-02
+C0032,Corporate,2023-07-06
+C0033,Consumer,2024-02-04
+C0034,Small Business,2023-03-15
+C0035,Small Business,2023-02-13
+C0036,Consumer,2022-08-13
+C0037,Consumer,2023-06-06
+C0038,Corporate,2022-04-04
+C0039,Consumer,2024-05-31
+C0040,Consumer,2022-06-06
+C0041,Small Business,2022-06-13
+C0042,Small Business,2023-03-09
+C0043,Small Business,2022-03-07
+C0044,Corporate,2023-01-26
+C0045,Small Business,2023-04-25
+C0046,Corporate,2022-09-15
+C0047,Corporate,2024-05-31
+C0048,Consumer,2023-11-28
+C0049,Consumer,2023-11-30
+C0050,Corporate,2024-02-08
+C0051,Consumer,2024-02-27
+C0052,Small Business,2022-12-15
+C0053,Consumer,2022-10-28
+C0054,Corporate,2022-06-11
+C0055,Corporate,2022-01-04
+C0056,Consumer,2023-05-28
+C0057,Consumer,2023-06-04
+C0058,Consumer,2024-06-10
+C0059,Small Business,2022-11-02
+C0060,Small Business,2023-06-04
+C0061,Small Business,2022-07-23
+C0062,Consumer,2023-01-18
+C0063,Consumer,2023-07-07
+C0064,Corporate,2022-01-01
+C0065,Small Business,2022-11-28
+C0066,Corporate,2022-01-20
+C0067,Consumer,2023-01-07
+C0068,Consumer,2022-09-03
+C0069,Consumer,2022-09-04
+C0070,Small Business,2022-03-22
+C0071,Consumer,2024-01-20
+C0072,Corporate,2024-04-15
+C0073,Consumer,2024-02-18
+C0074,Corporate,2024-02-24
+C0075,Consumer,2022-05-12
+C0076,Small Business,2023-05-02
+C0077,Corporate,2022-06-19
+C0078,Consumer,2023-06-25
+C0079,Small Business,2023-03-10
+C0080,Consumer,2023-07-07
+C0081,Consumer,2024-01-01
+C0082,Consumer,2023-02-13
+C0083,Small Business,2023-10-28
+C0084,Consumer,2023-03-25
+C0085,Corporate,2023-04-08
+C0086,Consumer,2022-09-11
+C0087,Consumer,2022-03-07
+C0088,Consumer,2022-01-22
+C0089,Small Business,2023-07-22
+C0090,Consumer,2023-08-26
+C0091,Consumer,2022-01-08
+C0092,Consumer,2023-12-26
+C0093,Small Business,2022-03-02
+C0094,Consumer,2022-03-11
+C0095,Consumer,2024-05-30
+C0096,Consumer,2022-03-14
+C0097,Corporate,2022-09-01
+C0098,Consumer,2023-11-17
+C0099,Corporate,2022-08-08
+C0100,Corporate,2022-05-16
+C0101,Small Business,2023-08-14
+C0102,Corporate,2022-09-06
+C0103,Corporate,2024-04-06
+C0104,Corporate,2022-07-14
+C0105,Consumer,2022-04-10
+C0106,Small Business,2023-03-18
+C0107,Consumer,2023-03-10
+C0108,Corporate,2023-04-24
+C0109,Consumer,2023-11-21
+C0110,Small Business,2023-10-24
+C0111,Consumer,2022-03-04
+C0112,Corporate,2024-01-16
+C0113,Consumer,2024-03-30
+C0114,Consumer,2022-09-12
+C0115,Consumer,2022-07-14
+C0116,Corporate,2023-04-05
+C0117,Consumer,2023-03-09
+C0118,Consumer,2022-10-13
+C0119,Corporate,2022-09-13
+C0120,Consumer,2023-03-30
+C0121,Corporate,2022-04-11
+C0122,Consumer,2023-10-30
+C0123,Corporate,2024-05-06
+C0124,Consumer,2022-04-06
+C0125,Consumer,2022-06-20
+C0126,Corporate,2023-05-13
+C0127,Corporate,2022-08-07
+C0128,Corporate,2022-03-02
+C0129,Consumer,2023-01-24
+C0130,Consumer,2023-02-04
+C0131,Consumer,2024-03-13
+C0132,Corporate,2022-10-20
+C0133,Corporate,2023-12-15
+C0134,Corporate,2023-11-09
+C0135,Corporate,2022-06-08
+C0136,Consumer,2022-10-31
+C0137,Consumer,2022-03-01
+C0138,Small Business,2024-01-24
+C0139,Corporate,2022-03-04
+C0140,Consumer,2022-02-28
+C0141,Consumer,2023-08-22
+C0142,Corporate,2023-05-30
+C0143,Corporate,2022-06-11
+C0144,Consumer,2023-06-05
+C0145,Consumer,2024-05-21
+C0146,Consumer,2022-03-12
+C0147,Small Business,2022-03-11
+C0148,Small Business,2024-06-01
+C0149,Consumer,2023-02-18
+C0150,Consumer,2023-08-07
+C0151,Consumer,2023-08-16
+C0152,Small Business,2022-02-10
+C0153,Small Business,2022-03-25
+C0154,Corporate,2023-11-05
+C0155,Small Business,2023-08-02
+C0156,Corporate,2022-11-20
+C0157,Consumer,2022-07-29
+C0158,Small Business,2024-01-04
+C0159,Consumer,2022-09-02
+C0160,Consumer,2023-02-10
+C0161,Consumer,2023-11-19
+C0162,Small Business,2022-11-04
+C0163,Corporate,2022-11-20
+C0164,Consumer,2022-01-10
+C0165,Corporate,2023-09-29
+C0166,Small Business,2022-04-13
+C0167,Consumer,2023-07-05
+C0168,Consumer,2023-06-03
+C0169,Consumer,2022-05-16
+C0170,Consumer,2022-03-12
+C0171,Consumer,2023-01-14
+C0172,Consumer,2022-06-11
+C0173,Corporate,2024-05-03
+C0174,Corporate,2023-12-22
+C0175,Consumer,2023-09-19
+C0176,Small Business,2023-06-26
+C0177,Consumer,2023-11-15
+C0178,Corporate,2022-11-03
+C0179,Small Business,2022-04-17
+C0180,Consumer,2022-09-28
+C0181,Consumer,2022-04-20
+C0182,Corporate,2022-06-09
+C0183,Consumer,2022-10-16
+C0184,Small Business,2022-08-04
+C0185,Consumer,2022-07-28
+C0186,Small Business,2023-10-12
+C0187,Consumer,2023-06-02
+C0188,Corporate,2022-09-15
+C0189,Consumer,2022-04-05
+C0190,Small Business,2023-03-10
+C0191,Consumer,2022-02-15
+C0192,Consumer,2022-12-08
+C0193,Consumer,2023-10-15
+C0194,Consumer,2022-06-15
+C0195,Corporate,2023-07-19
+C0196,Corporate,2023-07-29
+C0197,Consumer,2022-04-25
+C0198,Consumer,2023-12-09
+C0199,Consumer,2023-07-13
+C0200,Consumer,2024-05-04
+C0201,Consumer,2023-08-20
+C0202,Corporate,2022-06-01
+C0203,Corporate,2022-05-11
+C0204,Consumer,2022-11-12
+C0205,Consumer,2024-03-26
+C0206,Consumer,2023-01-02
+C0207,Consumer,2023-11-30
+C0208,Consumer,2023-11-14
+C0209,Consumer,2022-12-29
+C0210,Corporate,2024-06-14
+C0211,Corporate,2023-09-28
+C0212,Consumer,2022-08-31
+C0213,Consumer,2024-03-30
+C0214,Consumer,2023-02-27
+C0215,Consumer,2022-07-03
+C0216,Consumer,2024-03-12
+C0217,Corporate,2024-04-01
+C0218,Small Business,2024-06-03
+C0219,Consumer,2022-10-01
+C0220,Consumer,2024-03-17
+C0221,Consumer,2023-01-27
+C0222,Consumer,2024-05-29
+C0223,Corporate,2022-08-16
+C0224,Consumer,2024-04-16
+C0225,Corporate,2022-12-25
+C0226,Consumer,2024-04-20
+C0227,Consumer,2022-08-17
+C0228,Consumer,2023-11-07
+C0229,Consumer,2023-02-13
+C0230,Consumer,2022-10-13
+C0231,Consumer,2024-03-02
+C0232,Consumer,2022-12-26
+C0233,Small Business,2023-06-06
+C0234,Corporate,2023-11-27
+C0235,Corporate,2022-12-06
+C0236,Consumer,2022-04-29
+C0237,Consumer,2022-07-02
+C0238,Small Business,2022-09-29
+C0239,Consumer,2022-04-22
+C0240,Small Business,2023-03-21
+C0241,Consumer,2024-01-17
+C0242,Consumer,2023-03-23
+C0243,Small Business,2023-06-08
+C0244,Consumer,2023-01-30
+C0245,Small Business,2022-07-14
+C0246,Consumer,2022-02-15
+C0247,Corporate,2022-01-02
+C0248,Corporate,2024-04-05
+C0249,Corporate,2023-12-05
+C0250,Small Business,2022-07-21
+C0251,Consumer,2023-03-18
+C0252,Consumer,2023-11-12
+C0253,Consumer,2023-10-01
+C0254,Consumer,2023-11-11
+C0255,Consumer,2024-01-08
+C0256,Consumer,2023-06-04
+C0257,Consumer,2023-11-14
+C0258,Corporate,2022-12-01
+C0259,Corporate,2023-12-15
+C0260,Consumer,2023-07-22
+C0261,Consumer,2022-07-16
+C0262,Corporate,2023-11-12
+C0263,Corporate,2023-11-25
+C0264,Consumer,2023-09-23
+C0265,Small Business,2022-11-05
+C0266,Corporate,2023-07-16
+C0267,Consumer,2022-11-08
+C0268,Consumer,2022-08-04
+C0269,Corporate,2024-03-15
+C0270,Small Business,2023-09-14
+C0271,Small Business,2022-11-26
+C0272,Corporate,2023-03-29
+C0273,Corporate,2023-11-23
+C0274,Consumer,2023-06-08
+C0275,Corporate,2024-03-23
+C0276,Consumer,2023-11-06
+C0277,Consumer,2022-10-18
+C0278,Corporate,2023-11-11
+C0279,Small Business,2023-09-27
+C0280,Consumer,2022-04-06
+C0281,Consumer,2023-11-20
+C0282,Consumer,2022-08-19
+C0283,Consumer,2022-05-31
+C0284,Consumer,2022-02-17
+C0285,Consumer,2023-05-02
+C0286,Small Business,2024-05-20
+C0287,Consumer,2023-04-12
+C0288,Corporate,2023-10-07
+C0289,Small Business,2022-07-19
+C0290,Corporate,2023-05-22
+C0291,Corporate,2022-09-07
+C0292,Consumer,2023-11-03
+C0293,Consumer,2024-02-08
+C0294,Consumer,2024-03-08
+C0295,Corporate,2022-08-13
+C0296,Consumer,2024-04-03
+C0297,Corporate,2023-04-21
+C0298,Consumer,2023-07-25
+C0299,Consumer,2024-05-18
+C0300,Consumer,2023-04-13
+C0301,Consumer,2024-03-31
+C0302,Corporate,2023-11-15
+C0303,Corporate,2023-07-27
+C0304,Small Business,2022-11-21
+C0305,Corporate,2023-09-20
+C0306,Corporate,2023-03-13
+C0307,Corporate,2023-04-02
+C0308,Consumer,2024-02-01
+C0309,Corporate,2023-04-06
+C0310,Consumer,2024-02-09
+C0311,Consumer,2024-05-10
+C0312,Small Business,2022-10-11
+C0313,Corporate,2023-05-12
+C0314,Small Business,2022-09-02
+C0315,Consumer,2023-03-27
+C0316,Consumer,2024-01-01
+C0317,Consumer,2022-08-29
+C0318,Consumer,2022-12-10
+C0319,Consumer,2023-07-08
+C0320,Consumer,2022-05-22
+C0321,Consumer,2022-08-25
+C0322,Corporate,2023-12-12
+C0323,Consumer,2023-12-25
+C0324,Consumer,2022-03-07
+C0325,Corporate,2023-02-22
+C0326,Consumer,2023-07-10
+C0327,Corporate,2023-03-02
+C0328,Consumer,2022-07-31
+C0329,Corporate,2023-02-03
+C0330,Small Business,2023-12-14
+C0331,Consumer,2024-05-27
+C0332,Small Business,2023-01-25
+C0333,Corporate,2022-01-07
+C0334,Consumer,2022-11-02
+C0335,Corporate,2024-05-23
+C0336,Corporate,2023-07-06
+C0337,Corporate,2024-03-30
+C0338,Small Business,2022-08-14
+C0339,Corporate,2022-08-13
+C0340,Consumer,2023-03-23
+C0341,Corporate,2022-01-30
+C0342,Corporate,2022-12-11
+C0343,Small Business,2023-11-27
+C0344,Corporate,2024-01-12
+C0345,Consumer,2024-05-10
+C0346,Corporate,2022-05-11
+C0347,Small Business,2023-07-01
+C0348,Consumer,2023-02-08
+C0349,Small Business,2023-08-01
+C0350,Small Business,2022-01-28
+C0351,Consumer,2023-10-21
+C0352,Corporate,2022-05-19
+C0353,Corporate,2022-07-06
+C0354,Consumer,2022-09-24
+C0355,Corporate,2022-12-02
+C0356,Consumer,2023-04-11
+C0357,Consumer,2022-12-12
+C0358,Corporate,2022-10-12
+C0359,Corporate,2022-09-16
+C0360,Consumer,2023-04-27
+C0361,Consumer,2024-02-07
+C0362,Corporate,2022-02-23
+C0363,Consumer,2022-08-18
+C0364,Small Business,2022-03-12
+C0365,Small Business,2022-02-11
+C0366,Consumer,2022-09-11
+C0367,Consumer,2024-05-09
+C0368,Consumer,2023-09-29
+C0369,Consumer,2022-09-02
+C0370,Consumer,2023-04-30
+C0371,Small Business,2022-04-28
+C0372,Small Business,2022-08-12
+C0373,Corporate,2023-12-18
+C0374,Consumer,2024-02-25
+C0375,Consumer,2022-06-21
+C0376,Small Business,2023-09-14
+C0377,Consumer,2024-03-07
+C0378,Consumer,2022-11-15
+C0379,Consumer,2023-08-16
+C0380,Consumer,2022-11-16
+C0381,Small Business,2023-11-25
+C0382,Corporate,2023-02-11
+C0383,Consumer,2022-03-19
+C0384,Small Business,2023-12-09
+C0385,Small Business,2022-09-06
+C0386,Consumer,2023-12-15
+C0387,Consumer,2024-05-20
+C0388,Small Business,2023-09-07
+C0389,Consumer,2024-03-26
+C0390,Small Business,2024-03-12
+C0391,Consumer,2022-12-22
+C0392,Corporate,2023-03-15
+C0393,Small Business,2023-01-15
+C0394,Consumer,2023-06-03
+C0395,Small Business,2022-12-16
+C0396,Consumer,2024-05-19
+C0397,Corporate,2024-04-22
+C0398,Corporate,2022-04-19
+C0399,Corporate,2023-01-06
+C0400,Small Business,2024-04-28
+C0401,Corporate,2023-12-26
+C0402,Consumer,2023-03-22
+C0403,Consumer,2024-01-22
+C0404,Corporate,2023-10-29
+C0405,Consumer,2023-09-23
+C0406,Corporate,2024-03-04
+C0407,Corporate,2023-04-22
+C0408,Corporate,2024-04-25
+C0409,Small Business,2022-10-02
+C0410,Consumer,2024-05-22
+C0411,Consumer,2024-04-30
+C0412,Consumer,2022-10-13
+C0413,Corporate,2022-09-07
+C0414,Corporate,2023-08-07
+C0415,Small Business,2023-11-16
+C0416,Corporate,2022-12-11
+C0417,Consumer,2023-05-22
+C0418,Consumer,2022-07-06
+C0419,Corporate,2022-08-06
+C0420,Consumer,2024-03-27
+C0421,Consumer,2022-12-15
+C0422,Consumer,2023-09-03
+C0423,Consumer,2023-07-24
+C0424,Consumer,2023-06-14
+C0425,Consumer,2022-03-29
+C0426,Consumer,2024-01-08
+C0427,Corporate,2023-05-16
+C0428,Corporate,2024-02-16
+C0429,Consumer,2023-12-09
+C0430,Corporate,2023-10-24
+C0431,Corporate,2023-04-04
+C0432,Consumer,2022-04-06
+C0433,Consumer,2022-08-15
+C0434,Corporate,2023-12-10
+C0435,Consumer,2022-11-10
+C0436,Small Business,2023-08-19
+C0437,Consumer,2023-04-30
+C0438,Corporate,2023-06-28
+C0439,Consumer,2023-03-12
+C0440,Corporate,2022-12-05
+C0441,Consumer,2023-12-21
+C0442,Corporate,2022-10-05
+C0443,Consumer,2022-09-15
+C0444,Consumer,2022-05-04
+C0445,Consumer,2022-11-20
+C0446,Consumer,2024-01-31
+C0447,Corporate,2024-02-20
+C0448,Consumer,2022-07-16
+C0449,Consumer,2024-01-27
+C0450,Corporate,2022-10-11
+C0451,Small Business,2024-02-18
+C0452,Corporate,2023-09-04
+C0453,Consumer,2022-04-13
+C0454,Consumer,2022-10-31
+C0455,Consumer,2023-01-05
+C0456,Consumer,2022-11-06
+C0457,Consumer,2023-12-27
+C0458,Corporate,2022-05-10
+C0459,Consumer,2022-02-16
+C0460,Consumer,2023-07-21
+C0461,Consumer,2023-12-16
+C0462,Consumer,2023-10-16
+C0463,Corporate,2022-04-16
+C0464,Consumer,2023-08-11
+C0465,Consumer,2023-04-26
+C0466,Corporate,2023-03-28
+C0467,Consumer,2022-07-08
+C0468,Consumer,2022-09-16
+C0469,Corporate,2022-04-27
+C0470,Consumer,2023-02-15
+C0471,Corporate,2022-03-17
+C0472,Small Business,2023-10-07
+C0473,Small Business,2022-02-24
+C0474,Consumer,2022-06-02
+C0475,Small Business,2022-11-08
+C0476,Consumer,2022-09-12
+C0477,Consumer,2023-07-26
+C0478,Corporate,2023-09-13
+C0479,Small Business,2024-03-20
+C0480,Small Business,2022-08-20
+C0481,Corporate,2023-01-25
+C0482,Corporate,2023-03-30
+C0483,Consumer,2024-05-30
+C0484,Small Business,2023-03-16
+C0485,Consumer,2023-08-06
+C0486,Small Business,2022-03-03
+C0487,Small Business,2024-01-28
+C0488,Consumer,2024-02-21
+C0489,Consumer,2023-10-03
+C0490,Consumer,2022-09-28
+C0491,Small Business,2022-03-25
+C0492,Consumer,2022-09-03
+C0493,Consumer,2023-07-20
+C0494,Consumer,2022-06-10
+C0495,Consumer,2023-02-23
+C0496,Corporate,2023-12-07
+C0497,Small Business,2023-04-27
+C0498,Consumer,2022-02-03
+C0499,Consumer,2022-10-23
+C0500,Consumer,2023-12-21

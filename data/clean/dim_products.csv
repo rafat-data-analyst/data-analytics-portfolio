@@ -1,0 +1,21 @@
+product_id,product_name,category,unit_price,unit_cost
+P001,Laptop,Electronics,1165.39,648.25
+P002,Smartphone,Electronics,524.05,317.47
+P003,Headphones,Electronics,1336.19,960.95
+P004,Tablet,Electronics,1610.24,920.63
+P005,Smartwatch,Electronics,782.58,436.25
+P006,Air Purifier,Home,150.72,101.94
+P007,Coffee Machine,Home,40.26,24.14
+P008,Vacuum Cleaner,Home,398.68,273.59
+P009,Desk Lamp,Home,151.75,105.82
+P010,Blender,Home,490.42,270.53
+P011,Sneakers,Fashion,488.35,353.83
+P012,Backpack,Fashion,220.64,129.93
+P013,Sunglasses,Fashion,575.4,364.89
+P014,Jacket,Fashion,78.33,44.98
+P015,Watch,Fashion,512.31,359.09
+P016,Yoga Mat,Sports,489.1,358.23
+P017,Dumbbell Set,Sports,333.33,264.42
+P018,Football,Sports,242.66,166.95
+P019,Tennis Racket,Sports,501.91,353.66
+P020,Cycling Helmet,Sports,520.48,361.39
