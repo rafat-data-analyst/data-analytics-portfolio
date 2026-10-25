@@ -1,0 +1,28 @@
+INFO | Run started: 1 order file(s) found
+INFO | orders.csv | in=6120 rejected=210 skipped_existing=0 loaded=5910 (discounts filled=58)
+INFO | orders.csv | reject reasons: {'duplicate_in_batch': 120, 'missing_customer_id': 60, 'invalid_quantity': 30}
+INFO | Validation passed: no duplicate order_id
+INFO | Validation passed: no negative revenue
+INFO | Validation passed: no missing customer
+INFO | Validation passed: no orphan products
+INFO | Run finished successfully
+INFO | Run started: 2 order file(s) found
+INFO | orders.csv | in=6120 rejected=210 skipped_existing=5910 loaded=0 (discounts filled=58)
+INFO | orders.csv | reject reasons: {'duplicate_in_batch': 120, 'missing_customer_id': 60, 'invalid_quantity': 30}
+INFO | orders_batch2.csv | in=390 rejected=10 skipped_existing=30 loaded=350 (discounts filled=0)
+INFO | orders_batch2.csv | reject reasons: {'invalid_quantity': 5, 'missing_customer_id': 5}
+INFO | Validation passed: no duplicate order_id
+INFO | Validation passed: no negative revenue
+INFO | Validation passed: no missing customer
+INFO | Validation passed: no orphan products
+INFO | Run finished successfully
+INFO | Run started: 2 order file(s) found
+INFO | orders.csv | in=6120 rejected=210 skipped_existing=5910 loaded=0 (discounts filled=58)
+INFO | orders.csv | reject reasons: {'duplicate_in_batch': 120, 'missing_customer_id': 60, 'invalid_quantity': 30}
+INFO | orders_batch2.csv | in=390 rejected=10 skipped_existing=380 loaded=0 (discounts filled=0)
+INFO | orders_batch2.csv | reject reasons: {'invalid_quantity': 5, 'missing_customer_id': 5}
+INFO | Validation passed: no duplicate order_id
+INFO | Validation passed: no negative revenue
+INFO | Validation passed: no missing customer
+INFO | Validation passed: no orphan products
+INFO | Run finished successfully

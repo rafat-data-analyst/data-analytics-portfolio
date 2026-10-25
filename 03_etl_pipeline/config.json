@@ -1,0 +1,7 @@
+{
+  "raw_dir": "../data/raw",
+  "orders_pattern": "orders*.csv",
+  "output_dir": "../data/pipeline_output",
+  "db_name": "sales_pipeline.db",
+  "allowed_discount_max": 0.5
+}
