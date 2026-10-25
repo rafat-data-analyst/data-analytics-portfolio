@@ -1,2 +1,0 @@
-pandas
-azure-storage-blob
