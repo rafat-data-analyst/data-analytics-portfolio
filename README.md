@@ -3,14 +3,19 @@ Three connected projects built on one **synthetic** UAE retail-sales dataset (5,
 
 | # | Project | Skills shown |
 |---|---|---|
-| 1 | `01_sql_analysis` – 7 business questions answered in SQL | CTEs, window functions (LAG, ROW_NUMBER, running totals), joins, KPI design |
-| 2 | `02_powerbi_dashboard` – Sales Performance dashboard | Data modelling, star schema, DAX, KPI design, storytelling |
-| 3 | `03_azure_pipeline` – Raw → clean ETL + Azure Blob/ADF load | Python ETL, data quality & validation, Azure Storage, Data Factory |
+| 1 | [`01_sql_analysis`](01_sql_analysis) – 7 business questions answered in SQL | CTEs, window functions (LAG, ROW_NUMBER, running totals), joins, KPI design |
+| 2 | [`02_powerbi_dashboard`](02_powerbi_dashboard) – Sales Performance dashboard | Star schema, DAX, time intelligence, KPI design, storytelling |
+| 3 | [`03_etl_pipeline`](03_etl_pipeline) – Incremental ETL with data-quality controls | Python ETL, validation, idempotent loads, logging, audit trail, unit tests |
+
+## Key finding
+Orders with discounts above 20% earn a 14.0% margin, against 35.8% with no discount. Recommendation: cap discounts at 10%.
 
 ## Run it
 ```
 pip install pandas
-python data/generate_data.py          # creates dirty raw CSVs
-python 03_azure_pipeline/etl_pipeline.py   # cleans + loads (data/clean)
-python 01_sql_analysis/run_queries.py      # runs all SQL, writes results.md
+python data/generate_data.py                    # creates the raw CSV files
+cd 03_etl_pipeline
+python -m unittest -v                           # run the tests
+python etl_pipeline.py --reset                  # cleans and loads the data
 ```
+Project 1 uses the cleaned database in `data/clean`; see each project's README for details.
